@@ -15,4 +15,4 @@ Objetivo de demosntrar a compreensão de conceitos teóricos matemáticos aprend
 
 ![Simulação do cálculo](img/exemple.png)
 
-![Saídas retornadas pela simulação](img/output.jpeg)
+![Saídas retornadas pela simulação](img/output.png)
