@@ -13,3 +13,6 @@ Objetivo de demosntrar a compreensão de conceitos teóricos matemáticos aprend
 - **Intervalo Inferior**: 1.5
 - **Intervalo Superior**: 2.5
 
+![Simulação do cálculo](img/simulacao.png)
+
+![Saídas retornadas pela simulação](saida.jpeg)
